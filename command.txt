@@ -1,0 +1,4 @@
+revert/reset
+cherry-pick
+merge /rebase
+squash
