@@ -1,7 +1,3 @@
-added a new feature by dev2
+added a new feature by de2
 
-<<<<<<< HEAD
 apna new feature add kar diya
-=======
-added a new feature by dev3
->>>>>>> d02f647ba047fd8123de663fe0b1172ec7386685
